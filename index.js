@@ -25,6 +25,6 @@ function iLoveTheBeatles(number) {
   var iLoveTheBeatlesArray = [];
   var i = 0;
   do {
-    
-  } while 
+      
+  } while (i < number)
 }
